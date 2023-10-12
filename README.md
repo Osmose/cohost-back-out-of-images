@@ -5,7 +5,7 @@ This userscript lets you use the browser back button to close the image overlay 
 ## How to Install
 
 1. Get a userscript extension for your browser, like [Tampermonkey](https://www.tampermonkey.net/).
-2. Click [here](https://raw.githubusercontent.com/osmose/cohost-back-out-of-images/main/userscript.js) to view the installation page.
+2. Click [here](https://raw.githubusercontent.com/osmose/cohost-back-out-of-images/main/cohost-back-out-of-images.user.js) to view the installation page.
 
 ## Problems? Bugs?
 
