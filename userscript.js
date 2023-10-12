@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Back Out of Images
-// @namespace    http://tampermonkey.net/
+// @name         Cohost Back Out of Images
+// @namespace    https://mkelly.me/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Use the back button to exit the image view on cohost.org
+// @author       Osmose
 // @match        https://cohost.org/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cohost.org
 // @grant        none
