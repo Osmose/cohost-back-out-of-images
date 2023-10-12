@@ -7,8 +7,6 @@
 // @match        https://cohost.org/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cohost.org
 // @grant        none
-// @run-at       document-end
-// @noframes
 // ==/UserScript==
 
 (function() {
